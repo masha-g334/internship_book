@@ -9,7 +9,7 @@ The documents can be opened both as a HTML website and as a Jupyter notebooks on
 
 Website: https://masha-internship.netlify.app
 
-GitHub: 
+GitHub: https://github.com/masha-g334/internship_book
 
 # Contact details
 
