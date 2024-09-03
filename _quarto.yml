@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "INTERNSHIP"
+  author: "Masha Glynchak, summer intern"
+  date: last-modified
+  chapters:
+    - index.qmd
+
+    - MNIST.ipynb
+    - atari.ipynb
+
+
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 4
+    toc-expand: 4
+    number-sections: false
+    code-link: true
+    title-block-banner: "#f0f3f5"
+    title-block-banner-color: "black"
+
+
+
+

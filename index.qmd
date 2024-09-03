@@ -1,0 +1,18 @@
+# Introduction {.unnumbered}
+
+You are looking at a summary code and visualisation for my summer internship. In this internship, I was trying to understand what happens inside the DL model, and how the input image is represented within the model. I worked on two datasets: MNIST (handwritten digits) and atari games (Pong and Space Invaders), and applied dimensionality reduction techniques to understand internal representations of the input.
+
+
+
+
+The documents can be opened both as a HTML website and as a Jupyter notebooks on GitHub.
+
+Website: https://masha-internship.netlify.app
+
+GitHub: 
+
+# Contact details
+
+You can contact me through Mattermost or by email: mg334@st-andrews.ac.uk
+
+Please don't hesitate to do so.
